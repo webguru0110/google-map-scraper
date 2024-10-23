@@ -4,13 +4,8 @@ import csv
 import time
 import json
 
-# Replace with your Google Maps API key
-# BENJI, IP restricted
-# API_KEY = "AIzaSyCUu4koyIodS68z24syvL_89YLlk1c9tc8"
-# BRI, IP Restricted
-# API_KEY = "AIzaSyDry6gkw5q4JPnHUBsajrkXxQn6KUQE8t0"
-# India
-### API_KEY = "AIzaSyCx4uSvb-ctmEbEUpP_6pPrexO9q3wMaXE"
+
+### API_KEY = ""
 
 # for testing only
 # data1 = {
